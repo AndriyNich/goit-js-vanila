@@ -1,21 +1,21 @@
 {
-  "name": "goit-js-hw-08",
+  "name": "goit-js-vanila",
   "version": "1.0.0",
   "description": "",
-  "homepage": "https://AndriyNich.github.io/goit-js-hw-08",
+  "homepage": "https://AndriyNich.github.io/goit-js-vanila",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-js-hw-08/"
+    "build": "parcel build src/*.html --public-url /goit-js-vanila/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AndriyNich/goit-js-hw-08.git"
+    "url": "git+https://github.com/AndriyNich/goit-js-vanila.git"
   },
   "keywords": [],
   "author": "Andriy Nich <info@bembi.ua>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AndriyNich/goit-js-hw-08/issues"
+    "url": "https://github.com/AndriyNich/goit-js-vanila/issues"
   },
   "dependencies": {
     "@vimeo/player": "^2.18.0",
